@@ -2,6 +2,7 @@
 
 |                            Title                             |    Venue     | Year |                            Paper                             |                            Slide                             |                            Video                             |                            Github                            |
 | :----------------------------------------------------------: | :----------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|How Machine Learning Is Solving the Binary Function Similarity Problem | Usenix | 2022 | [link](https://www.s3.eurecom.fr/docs/usenixsec22_marcelli.pdf)| | | [link](https://github.com/Cisco-Talos/binary_function_similarity)| 
 | Asteria: Deep Learning-based AST-Encoding for Cross-platform Binary Code Similarity Detection | IEEE DSN 2021 | 2021 | [link](https://arxiv.org/pdf/2108.06082v1.pdf)| | | [link](https://github.com/Asteria-BCSD/Asteria)|
 | BinDeep: A deep learning approach to binary code similarity detection | ESWA | 2021 | [link](https://www.sciencedirect.com/science/article/pii/S0957417420310332)| | | |
 | Codee: A Tensor Embedding Scheme for Binary Code Search | TSE | 2021 |[link](https://ieeexplore.ieee.org/document/9345532) | | | [link](https://github.com/ycachy/Codee)|
