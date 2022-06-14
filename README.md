@@ -2,6 +2,7 @@
 
 |                            Title                             |    Venue     | Year |                            Paper                             |                            Slide                             |                            Video                             |                            Github                            |
 | :----------------------------------------------------------: | :----------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|jTrans: Jump-Aware Transformer for Binary Code Similarity | ISSTA | 2022 | [link](https://arxiv.org/pdf/2205.12713.pdf)| | | [link](https://github.com/vul337/jTrans/)| 
 |How Machine Learning Is Solving the Binary Function Similarity Problem | Usenix | 2022 | [link](https://www.s3.eurecom.fr/docs/usenixsec22_marcelli.pdf)| | | [link](https://github.com/Cisco-Talos/binary_function_similarity)| 
 | Asteria: Deep Learning-based AST-Encoding for Cross-platform Binary Code Similarity Detection | IEEE DSN 2021 | 2021 | [link](https://arxiv.org/pdf/2108.06082v1.pdf)| | | [link](https://github.com/Asteria-BCSD/Asteria)|
 | BinDeep: A deep learning approach to binary code similarity detection | ESWA | 2021 | [link](https://www.sciencedirect.com/science/article/pii/S0957417420310332)| | | |
