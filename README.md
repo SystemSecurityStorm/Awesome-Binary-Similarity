@@ -2,6 +2,7 @@
 
 |                            Title                             |    Venue     | Year |                            Paper                             |                            Slide                             |                            Video                             |                            Github                            |
 | :----------------------------------------------------------: | :----------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|VulHawk: Cross-architecture Vulnerability Detection with Entropy-based Binary Code Search | NDSS | 2023 | | | | |
 |Practical Binary Code Similarity Detection with BERT-based Transferable Similarity Learning | ACSAC | 2022 | [link](https://dl.acm.org/doi/abs/10.1145/3564625.3567975)| | | [link](https://github.com/asw0316/binshot)| 
 |Improving cross-platform binary analysis using representation learning via graph alignment | ISSTA | 2022 | [link](https://dl.acm.org/doi/pdf/10.1145/3533767.3534383)| | [link](https://www.youtube.com/watch?v=rK1CDMauaZU&t=89s) | [link](https://github.com/yonsei-cysec/XBA)| 
 |jTrans: Jump-Aware Transformer for Binary Code Similarity | ISSTA | 2022 | [link](https://arxiv.org/pdf/2205.12713.pdf)| | [link](https://www.youtube.com/watch?v=rAirmnUsC1k) | [link](https://github.com/vul337/jTrans/)| 
