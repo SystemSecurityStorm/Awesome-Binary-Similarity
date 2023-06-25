@@ -2,6 +2,7 @@
 
 |                            Title                             |    Venue     | Year |                            Paper                             |                            Slide                             |                            Video                             |                            Github                            |
 | :----------------------------------------------------------: | :----------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Asteria-Pro: Enhancing Deep-Learning Based Binary Code Similarity Detection by Incorporating Domain Knowledge | | 2023 | [link](https://dl.acm.org/doi/10.1145/3604611) | | | [link](https://github.com/Asteria-BCSD/Asteria-Pro)
 | Binary Function Clone Search in the Presence of Code Obfuscation and Optimization over Multi-CPU Architectures | AsiaCCS | 2023 | [Link] | | | |
 |VulHawk: Cross-architecture Vulnerability Detection with Entropy-based Binary Code Search | NDSS | 2023 |[link](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f415_paper.pdf) | | | [link](https://github.com/RazorMegrez/VulHawk)|
 | BBDetector: A Precise and Scalable Third-Party Library Detection in Binary Executables with Fine-Grained Function-Level Features | | 2023 | [link](https://www.mdpi.com/2076-3417/13/1/413) | | | |
