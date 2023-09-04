@@ -2,6 +2,7 @@
 
 |                            Title                             |    Venue     | Year |                            Paper                             |                            Slide                             |                            Video                             |                            Github                            |
 | :----------------------------------------------------------: | :----------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|kTrans: Knowledge-Aware Transformer for Binary Code Embedding | | 2023 | [link](https://arxiv.org/abs/2308.12659)| | | [link](https://github.com/Learner0x5a/kTrans-release)| 
 | Improving Binary Code Similarity Transformer Models by Semantics-Driven Instruction Deemphasis | ISSTA | 2023 |[link](https://dl.acm.org/doi/pdf/10.1145/3597926.3598121) | | | [link](https://zenodo.org/record/7978808)
 | Asteria-Pro: Enhancing Deep-Learning Based Binary Code Similarity Detection by Incorporating Domain Knowledge |TOSEM | 2023 | [link](https://dl.acm.org/doi/10.1145/3604611) | | | [link](https://github.com/Asteria-BCSD/Asteria-Pro)
 | Binary Function Clone Search in the Presence of Code Obfuscation and Optimization over Multi-CPU Architectures | AsiaCCS | 2023 | [Link] | | | |
