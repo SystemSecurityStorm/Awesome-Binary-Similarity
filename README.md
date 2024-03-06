@@ -2,6 +2,8 @@
 
 |                            Title                             |    Venue     | Year |                            Paper                             |                            Slide                             |                            Video                             |                            Github                            |
 | :----------------------------------------------------------: | :----------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| CLAP: Learning Transferable Binary Code Representations with Natural Language Supervision | ISSTA | 2024 | [link](https://arxiv.org/pdf/2402.16928.pdf) | | | [link](https://github.com/Hustcw/CLAP)|
+| CEBin: A Cost-Effective Framework for Large-Scale Binary Code Similarity Detection | ISSTA | 2024 | [link](https://arxiv.org/pdf/2402.18818.pdf) | | | [link](https://github.com/Hustcw/CEBin)|
 | FASER: Binary Code Similarity Search through the use of Intermediate Representations | CAMLIS | 2023 | [link](https://arxiv.org/pdf/2310.03605.pdf) | | [link](https://www.youtube.com/watch?v=d5SGeQbvG4o)| [link](https://github.com/br0kej/FASER)|
 |VEXIR2Vec: An Architecture-Neutral Embedding Framework for Binary Similarity | | 2023 | [link](https://arxiv.org/abs/2312.00507) | | | |
 | kTrans: Knowledge-Aware Transformer for Binary Code Embedding | | 2023 | [link](https://arxiv.org/abs/2308.12659)| | | [link](https://github.com/Learner0x5a/kTrans-release)| 
