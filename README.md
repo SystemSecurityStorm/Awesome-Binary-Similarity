@@ -2,6 +2,7 @@
 
 |                            Title                             |    Venue     | Year |                            Paper                             |                            Slide                             |                            Video                             |                            Github                            |
 | :----------------------------------------------------------: | :----------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| BinaryAI: Binary Software Composition Analysis via Intelligent Binary Source Code Matching | ICSE | 2024 | [link](https://dl.acm.org/doi/10.1145/3597503.3639100) | | | |
 | Code is not Natural Language: Unlock the Power of Semantics-Oriented Graph Representation for Binary Code Similarity Detection | Usenix | 2024 | [link](https://www.usenix.org/system/files/sec24summer-prepub-346-he.pdf) | | | [link](https://github.com/NSSL-SJTU/HermesSim)
 | CLAP: Learning Transferable Binary Code Representations with Natural Language Supervision | ISSTA | 2024 | [link](https://arxiv.org/pdf/2402.16928.pdf) | | | [link](https://github.com/Hustcw/CLAP)|
 | CEBin: A Cost-Effective Framework for Large-Scale Binary Code Similarity Detection | ISSTA | 2024 | [link](https://arxiv.org/pdf/2402.18818.pdf) | | | [link](https://github.com/Hustcw/CEBin)|
