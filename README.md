@@ -2,6 +2,8 @@
 
 |                            Title                             |    Venue     | Year |                            Paper                             |                            Slide                             |                            Video                             |                            Github                            |
 | :----------------------------------------------------------: | :----------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|Cross-Inlining Binary Function Similarity Detection| ICSE | 2024 | [Link](https://dl.acm.org/doi/abs/10.1145/3597503.3639080) | | | [link](https://github.com/island255/cross-inlining_binary_function_similarity)|
+| Improving ML-based Binary Function Similarity Detection by Assessing and Deprioritizing Control Flow Graph Features | Usenix | 2024 | [link](https://www.usenix.org/system/files/usenixsecurity24-wang-jialai.pdf) | | | |
 | BinaryAI: Binary Software Composition Analysis via Intelligent Binary Source Code Matching | ICSE | 2024 | [link](https://dl.acm.org/doi/10.1145/3597503.3639100) | | | |
 | Code is not Natural Language: Unlock the Power of Semantics-Oriented Graph Representation for Binary Code Similarity Detection | Usenix | 2024 | [link](https://www.usenix.org/system/files/sec24summer-prepub-346-he.pdf) | | | [link](https://github.com/NSSL-SJTU/HermesSim)
 | CLAP: Learning Transferable Binary Code Representations with Natural Language Supervision | ISSTA | 2024 | [link](https://arxiv.org/pdf/2402.16928.pdf) | | | [link](https://github.com/Hustcw/CLAP)|
