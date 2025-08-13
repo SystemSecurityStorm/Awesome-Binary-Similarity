@@ -2,6 +2,7 @@
 
 |                            Title                             |    Venue     | Year |                            Paper                             |                            Slide                             |                            Video                             |                            Github                            |
 | :----------------------------------------------------------: | :----------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|REVDECODE: Enhancing Binary Function Matching with Context-Aware Graph Representations and Relevance Decoding | Usenix | 2025 | [link]() | | | [link](https://github.com/cake-lab/RevDecode) |
 |VEXIR2Vec: An Architecture-Neutral Embedding Framework for Binary Similarity | TOSEM | 2025 | [link](https://dl.acm.org/doi/10.1145/3721481) | | [webapp](https://compilers.cse.iith.ac.in/VexIR2Vec) | [link](https://github.com/IITH-Compilers/VexIR2Vec) |
 |Cross-Inlining Binary Function Similarity Detection| ICSE | 2024 | [Link](https://dl.acm.org/doi/abs/10.1145/3597503.3639080) | | | [link](https://github.com/island255/cross-inlining_binary_function_similarity)|
 | Improving ML-based Binary Function Similarity Detection by Assessing and Deprioritizing Control Flow Graph Features | Usenix | 2024 | [link](https://www.usenix.org/system/files/usenixsecurity24-wang-jialai.pdf) | | | |
